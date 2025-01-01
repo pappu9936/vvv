@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(240, 182, 6);
+}
+table{
+    border: 2px solid black;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    border-radius: 5px;
+    background-color: rgb(178, 239, 239);
+}
+table:hover{
+    background-color: antiquewhite;
+}
+input:hover{
+    background-color: chartreuse;
+    color: white;
+}
+h1{
+    background-color: aqua;
+}
